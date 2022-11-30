@@ -7,7 +7,7 @@ layout: default
 <img src="./me.jpg" width=50% height=50%>
 
 # CTF Challenges
-<img src="./tryhackme_logo_full.svg" width=50% height=50%>
+<img src="./tryhackme_logo_full.svg" width=35% height=35%>
 
 [TryHackMe Rooms](./TryHackMe.html).  
 
