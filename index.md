@@ -4,7 +4,7 @@ layout: default
 
 # About Me
 
-<img src="./assets/me.jpg" width=50% height=50% />
+<img src="./assets/me.jpg" alt="me" width=50% height=50% />
 
 # CTF Challenges
 
