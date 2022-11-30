@@ -3,7 +3,7 @@ layout: default
 ---
 
 # About Me
-![ME](./me.jpg)
+![ME](./me.jpg){: width="250"}
 # CTF Challenges
 ![TryHackMelogo](./tryhackme_logo_full.svg)
 
