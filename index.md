@@ -5,7 +5,7 @@ layout: default
 
 <img src="./assets/me.jpg" width="35%"/>
 
-<img src=".assets/tryhackme_logo_full.svg" width="35%"/>
+<img src="./assets/tryhackme_logo_full.svg" width="35%"/>
 
 [TryHackMe Rooms](./TryHackMe.html).
                 
