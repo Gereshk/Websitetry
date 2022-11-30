@@ -6,7 +6,12 @@ layout: default
 
 # About Me
 
-![Me](./assets/me.jpg){:width="250"}
+<a 
+  href={{ "./assets/me.jpg" | absolute_url }} 
+  {{ ./assets/me.jpg:props?width=250 }} 
+  alt='me'
+>
+
 
 [TryHackMe Rooms](./TryHackMe.html).                
 [Hack The Box Rooms](./hackthebox.html).    
