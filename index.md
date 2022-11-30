@@ -6,7 +6,7 @@ layout: default
 
 # About Me
 
-{{ ./assets/me.jpg:img?width=250 alt='me' }}
+<img src="./assets/me.jpg” width=50% height=50%>
 
 
 [TryHackMe Rooms](./TryHackMe.html).                
