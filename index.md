@@ -3,7 +3,7 @@ layout: default
 ---
 
 # About Me
-{% imagesize /me.jpg:img?width=250 alt='me' %}
+![Me}(./me.jpg){: width="250" }
 # CTF Challenges
 ![TryHackMelogo](./tryhackme_logo_full.svg)
 
