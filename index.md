@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# About Me
+![ME](./me.jpg)
 # CTF Challenges
 ![TryHackMelogo](./tryhackme_logo_full.svg)
 
