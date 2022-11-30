@@ -5,7 +5,8 @@ layout: default
 ---
 
 # About Me
-{% imagesize ./assets/me.jpg:img?width=250 alt='me' %}
+
+![Me](./assets/me.jpg){:width="250"}
 
 [TryHackMe Rooms](./TryHackMe.html).                
 [Hack The Box Rooms](./hackthebox.html).    
