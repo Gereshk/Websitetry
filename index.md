@@ -1,5 +1,3 @@
-22 lines (10 sloc)  329 Bytes
-
 ---
 layout: default
 ---
