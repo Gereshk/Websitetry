@@ -4,7 +4,7 @@ layout: default
 
 # About Me
 
-<img src="./assets/me.jpg" width=45% height=45%/>
+<img src="./assets/me.jpg" width="50%"/>
 
 
 [TryHackMe Rooms](./TryHackMe.html).                
