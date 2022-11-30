@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[TryHackMe Rooms](./TryHackMe.html).  [Hack The Box Rooms](./hackthebox.html).    [Link to another page](./another-page.html).
+[TryHackMe Rooms](./TryHackMe.html).                 [Hack The Box Rooms](./hackthebox.html).    [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
 
