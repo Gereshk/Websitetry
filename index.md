@@ -2,13 +2,14 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+![TryHackMelogo](./tryhackme_logo_full.svg)
 
 [TryHackMe Rooms](./TryHackMe.html).  
 
 ![HTBlogo](./logo-htb.svg)
 
-[./logo-htb.svg](./hackthebox.html).    
+[Hack The Box Rooms](./hackthebox.html).
+
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
