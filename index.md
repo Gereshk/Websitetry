@@ -8,7 +8,7 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 ![HTBlogo](./logo-htb.svg)
 
-[Hack The Box Rooms](./hackthebox.html).    
+[./logo-htb.svg](./hackthebox.html).    
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
