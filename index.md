@@ -6,11 +6,7 @@ layout: default
 
 # About Me
 
-<a 
-  href={{ "./assets/me.jpg" | absolute_url }} 
-  {{ ./assets/me.jpg:props?width=250 }} 
-  alt='me'
->
+{{ ./assets/me.jpg:img?width=250 alt='me' }}
 
 
 [TryHackMe Rooms](./TryHackMe.html).                
