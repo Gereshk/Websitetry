@@ -3,16 +3,15 @@ layout: default
 ---
 
 # About Me
-![Me](./me.jpg)
 
 <img src="./me.jpg" width=50% height=50%>
 
 # CTF Challenges
-![TryHackMelogo](./tryhackme_logo_full.svg)
+<img src="./tryhackme_logo_full.svg" width=50% height=50%>
 
 [TryHackMe Rooms](./TryHackMe.html).  
 
-![HTBlogo](./logo-htb.svg)
+<img src="./logo-htb.svg" width=50% height=50%>
 
 [Hack The Box Rooms](./hackthebox.html).
 
